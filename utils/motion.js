@@ -14,7 +14,7 @@ export const navVariants = {
     transition: {
       type: 'spring',
       stiffness: 80,
-      delay: 1,
+      delay: 0.1,
     },
   },
 };
@@ -57,6 +57,24 @@ export const textVariant = (delay) => ({
     transition: {
       type: 'spring',
       duration: 1.25,
+      delay,
+    },
+  },
+});
+
+export const textVariantHollow = (delay) => ({
+  hidden: {
+    y: 50,
+    opacity: 0,
+  },
+  show: {
+    y: 0,
+    opacity: 1,
+    transition: {
+      type: 'spring',
+      duration: 1.25,
+      color: 'transparent',
+      webkitTextStroke: '1px black',
       delay,
     },
   },
