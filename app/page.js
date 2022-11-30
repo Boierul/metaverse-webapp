@@ -12,11 +12,21 @@ const Page = () => (
 
             <Explore/>
         </div>
-        <GetStarted/>
-        <WhatsNew/>
+        <div className="relative">
+            <GetStarted/>
+
+            <div className="gradient-04 z-0"/>
+
+            <WhatsNew/>
+        </div>
         <World/>
-        <Insights/>
-        <Feedback/>
+        <div className="relative">
+            <Insights/>
+
+            <div className="gradient-04 z-0"/>
+
+            <Feedback/>
+        </div>
         <Footer/>
     </div>
 );

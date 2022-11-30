@@ -35,36 +35,36 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/vrpano.svg',
-    title: 'A new world',
+    title: 'Beware,the new world is here',
     subtitle:
-        'we have the latest update with new world for you to try never mind',
+        'The metaverse will likely have sweeping consequences for human behavior.',
   },
   {
     imgUrl: '/headset.svg',
-    title: 'More realistic',
+    title: 'More realistic than the real thing',
     subtitle:
-        'In the latest update, your eyes are narrow, making the world more realistic than ever',
-  },
+        'The metaverse will create new opportunities for improving behavior and mental health.',
+  }
 ];
 
 export const insights = [
   {
     imgUrl: '/planet-06.png',
-    title: 'The launch of the Metaverse makes Elon musk ketar-ketir',
+    title: 'Why metaverse real estate is selling for millions',
     subtitle:
-        'Magna etiam tempor orci eu lobortis elementum nibh tellus molestie. Diam maecenas sed enim ut sem viverra alique.',
+        'Metaverse real estate values are skyrocketing, with one plot selling for a record €2.49mil. Decentraland\'s Sam Hamilton explains why.',
   },
   {
     imgUrl: '/planet-07.png',
     title: '7 tips to easily master the madness of the Metaverse',
     subtitle:
-        'Vitae congue eu consequat ac felis donec. Et magnis dis parturient montes nascetur ridiculus mus. Convallis tellus id interdum',
+        'For creators, Metaverse saw more opportunities than simply playing games.',
   },
   {
     imgUrl: '/planet-08.png',
-    title: 'With one platform you can explore the whole world virtually',
+    title: 'How the fashion industry is getting a makeover from the Metaverse',
     subtitle:
-        'Quam quisque id diam vel quam elementum. Viverra nam libero justo laoreet sit amet cursus sit. Mauris in aliquam sem',
+        'The fashion industry is cashing in on the Metaverse, using the platform to reach new markets and promote its wares.',
   },
 ];
 
