@@ -1,8 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Web 3.0 - Metaverse website
 
-## Getting Started
+A static (for now) SPA with beautiful animations/transitions. The animations were created via Framer Motion lib. Next.js was used as a framework for React.js. It provides out-of-the-box tooling and configuration needed to build fast, SEO-friendly React applications.
 
-First, run the development server:
+## Project Screenshots 
+![metaversus_1](https://i.postimg.cc/8c45W5nD/metaversus-1.png)
+<br>
+![metaversus_2](https://i.postimg.cc/MH3wqjFc/metaversus-2.png)
+<br>
+![metaversus_3](https://i.postimg.cc/QM32Lbd4/metaversus-3.png)
+<br>
+![metaversus_4](https://i.postimg.cc/YSMsDCdT/metaversus-4.png)
+<br>
+![metaversus_5](https://i.postimg.cc/4xZDqPd8/metaversus-5.png)
+<br>
+![metaversus_6](https://i.postimg.cc/qMGbhTJL/metaversus-8.png)
+<br>
+![metaversus_7](https://i.postimg.cc/nVDNLg9R/metaversus-6.png)
+<br>
+![metaversus_8](https://i.postimg.cc/DZqQ9rmg/metaversus-7.png)
+<br>
+
+
+## Available Scripts
+
+Run the development server:
 
 ```bash
 npm run dev
@@ -10,25 +31,7 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Opens [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Demo Application
+Visit the [link]() to test the web-application at your own pleasure
