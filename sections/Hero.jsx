@@ -42,11 +42,11 @@ const Hero = () => (
                 <img
                     src="/cover.png"
                     alt="hero_cover"
-                    className="w-full sm:h-full object-cover rounded-tl-[140px] z-10 relative -top-[8rem]"
+                    className="w-full sm:h-[420px] object-cover rounded-tl-[140px] z-10 relative -top-[9rem] border-4 border-y-purple-500 border-x-indigo-500"
                 />
 
                 <a href="#explore">
-                    <div className="absolute sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10 -top-[46rem] z-10">
+                    <div className="w-full flex justify-end sm:-mt-[70px] -mt-[50px] pr-[40px] relative z-10 -top-[11rem]">
                         <img
                             src="/stamp.png"
                             alt="stamp"
