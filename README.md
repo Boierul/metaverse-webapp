@@ -34,4 +34,4 @@ yarn dev
 Opens [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Demo Application
-Visit the [link](https://metaverse-webapp-g1144ddo0-boierul.vercel.app/) to test the web-application at your own pleasure
+Visit the [link](https://metaversus-h3sj8qblc-boierul.vercel.app/) to test the web-application at your own pleasure
